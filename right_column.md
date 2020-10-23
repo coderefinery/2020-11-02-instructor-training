@@ -29,6 +29,9 @@ priority is given to invited participants.
 ![FocusCoE]({{ site.baseurl }}/img/focuscoe.png)
 
 
+### Registration form 
+[https://indico.neic.no/event/162/](https://indico.neic.no/event/162/)
+
 ### Contact
 
 support@coderefinery.org
