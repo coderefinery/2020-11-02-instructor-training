@@ -81,24 +81,28 @@ The focus of this workshop is on:
   Please join few minutes early so that we can start on time and get used to
   the collaborative notes document.
 
-- 13:00 - 13:50
+- 13:00 - 13:30
   [Lesson design and lesson development](https://coderefinery.github.io/instructor-training/05-lesson-design/)
   (Radovan)
+
+- 13:30 - 13:50
+  Group work:
+  Lesson design (part 1)
 
 - 13:50 - 14:00
   Break
 
-- 14:00 - 14:50
+- 14:00 - 14:30
   Group work:
-  Lesson design
+  Lesson design (part 2)
+
+- 14:30 - 14:50
+  Discussion: feedback from group work
 
 - 14:50 - 15:10
   Break
 
-- 15:10 - 15:30
-  Discussion: feedback from group work
-
-- 15:30 - 16:00
+- 15:10 - 16:00
   How to teach online: lessons learned from online teaching
   (Speaker: TBA)
 
