@@ -10,24 +10,23 @@ more reusable, reproducible and better documented code? Please join us!
 
 ---
 
-### Schedule
-
-#### Prerequisites: homework before the course
-
-Before the training:
-
-- Complete our pre-workshop survey. Your responses will help us to customize the workshop appropriately.
+### Homework before the course
 
 - Read this short paper 
   [The Science of Learning](https://carpentries.github.io/instructor-training/files/papers/science-of-learning-2015.pdf) 
   which provides a brief overview of some key evidence-based results in teaching.  
   This paper is also used by [The Carpentries](https://carpentries.org/) for their Instructor Training workshops.
 
-- Watch at least two of recorded
+- Watch at least two of the recorded
   ["this is my training philosophy" videos](https://www.youtube.com/playlist?list=PLpLblYHCzJAAHF89P-GCjEXWC8CF-7nhX)
+  (they are short!)
   which we will
   discuss in group discussions and which will form the basis for a group
   exercise.
+
+---
+
+### Schedule
 
 #### Monday, Nov 02, 13:00 - 17:00 CET
 
