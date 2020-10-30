@@ -1,6 +1,3 @@
-
-
-
 ### Instructors
 
 - Radovan Bast
@@ -16,8 +13,8 @@
 
 ### Location
 
-The workshop will be held online, participant links will be sent to
-registered participants.
+The workshop will be held online, video connection and collaborative document
+links will be shared with registered participants.
 
 
 ### Price
@@ -30,7 +27,9 @@ priority is given to invited participants.
 
 
 ### Registration form 
+
 [https://indico.neic.no/event/162/](https://indico.neic.no/event/162/)
+
 
 ### Contact
 
