@@ -12,8 +12,6 @@ more reusable, reproducible and better documented code? Please join us!
 
 ### Homework before the course
 
-- Complete our pre-workshop survey. Your responses will help us to customize the workshop appropriately.
-
 - Read this short paper 
   [The Science of Learning](https://carpentries.github.io/instructor-training/files/papers/science-of-learning-2015.pdf) 
   which provides a brief overview of some key evidence-based results in teaching.  
