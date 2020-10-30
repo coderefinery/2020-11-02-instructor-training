@@ -2,11 +2,13 @@
 
 ### Workshop for present and future instructors
 
-Do you (want to) teach researchers or independent students best practices of
-scientific software?  Are you teaching a university course and would like to
-include aspects of best practices in software engineering in the course?  Or
-would you simply like to educate your friends and colleagues in how to write
-more reusable, reproducible and better documented code? Please join us!
+This is a workshop for future instructors of courses for users
+of high-performance computing resources.
+
+The focus of this workshop is on:
+- the teaching part, not the HPC part (but we will discuss this in an HPC context)
+- lesson design
+- preparing and organizing online workshops
 
 ---
 
