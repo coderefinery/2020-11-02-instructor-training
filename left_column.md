@@ -28,77 +28,93 @@ more reusable, reproducible and better documented code? Please join us!
 
 ### Schedule
 
-#### Monday, Nov 02, 13:00 - 17:00 CET
+#### Monday, Nov 2, 12:50 - 17:00 CET
 
 - 12:50 - 13:00
-  Please join few minutes early so that we can start on time and get used to the collaborative notes
-  document.
+  Please join few minutes early so that we can start on time and get used to
+  the collaborative notes document.
 
-- 13:00 - 13:15
-  [Welcome and introduction](https://coderefinery.github.io/instructor-training/01-intro/)
-  (Radovan)
+- 13:00 - 13:20
+  About the workshop
+  (Speaker: TBA)
 
-- 13:15 - 13:45
-  [Our teaching philosophies](https://coderefinery.github.io/instructor-training/02-teaching-philosophies/)
-  (ice breaker and group work)
+- 13:20 - 13:50
+  [Teaching philosophies](https://coderefinery.github.io/instructor-training/02-teaching-philosophies/)
+  (Anne)
 
-- 13:45 - 14:15
+- 13:50 - 14:00
+  Break
+
+- 14:00 - 14:30
   [Carpentries and CodeRefinery approach to teaching](https://coderefinery.github.io/instructor-training/03-teaching-style/)
-  (Anne) - where we focus on differences between more demo-like CodeRefinery where
+  (Sabry) - where we focus on differences between more demo-like CodeRefinery where
   attendees take part shaping the course, compared to more type-along type Carpentries.
 
-- 14:15 - 14:30
+- 14:30 - 14:50
+  Discussion/group work:
+  Top issues new instructors face
+
+- 14:50 - 15:10
   Break
 
-- 14:30 - 15:15
-  Group work/ exercises
-
-- 15:15 - 15:45
-  [Lessons learned from running online and in-person workshops](https://coderefinery.github.io/instructor-training/04-running-workshops/)
-  (Richard)
-
-- 15:45 - 16:00
-  Break
-
-- 16:00 - 17:00
-  [Lesson design and lesson development](https://coderefinery.github.io/instructor-training/05-lesson-design/)
-  (Radovan)
-
-- End of day 1: Collect information from participants to prepare breakout rooms for day 2
-
-
-#### Tuesday, Nov 03, 13:00 - 17:00 CET
-
-- 13:00 - 13:15
-  Overview over the lessons
-
-- 13:15 - 13:30
+- 15:10 - 16:00
+  Group work:
   [Practicing teaching and feedback](https://coderefinery.github.io/instructor-training/06-teaching/):
   Example 5-minute demo that we discuss together
 
-- 13:30 - 13:50
-  Group work: practicing teaching
-
-- 13:50 - 14:05
+- 16:00 - 16:10
   Break
 
-- 14:05 - 14:20
-  Main room discussion
-
-- 14:12 - 15:20
-  Group work: second round, focus on only one feedback
-
-- 15:20 - 16:30
-  Break
+- 16:10 - 16:30
+  Discussion: feedback from group work
 
 - 16:30 - 17:00
-  - Prepare for day 3
-  - Institutional partnerships
-  - How to get involved
-  - How to run own workshops
-  - Certification
+  [Workshop preparation and organization](https://coderefinery.github.io/instructor-training/04-running-workshops/)
+  (Richard)
 
-#### Monday, Nov 09, 13:00 - 17:00 CET
-Final program TBC but will include an overview of
+
+#### Tuesday, Nov 3, 12:50 - 17:00 CET
+
+- 12:50 - 13:00
+  Please join few minutes early so that we can start on time and get used to
+  the collaborative notes document.
+
+- 13:00 - 13:50
+  [Lesson design and lesson development](https://coderefinery.github.io/instructor-training/05-lesson-design/)
+  (Radovan)
+
+- 13:50 - 14:00
+  Break
+
+- 14:00 - 14:50
+  Group work:
+  Lesson design
+
+- 14:50 - 15:10
+  Break
+
+- 15:10 - 15:30
+  Discussion: feedback from group work
+
+- 15:30 - 16:00
+  How to teach online: lessons learned from online teaching
+  (Speaker: TBA)
+
+- 16:00 - 16:10
+  Break
+
+- 16:10 - 16:30
+  Collaborative lesson tools
+  (Speaker: TBA)
+
+- 16:30 - 17:00
+  CodeRefinery collaboration network,
+  Prepare for day 3
+  (Speaker: TBA)
+
+
+### Monday, Nov 9, 12:50 - 17:00 CET
+
+Final program to be announced but will include an overview of
 - the HPC Carpentry lesson [Introduction to High-Performance Computing](https://hpc-carpentry.github.io/hpc-intro/)
 - the FocusCoE/E-CAM lesson on [Running LAMMPS on HPC systems](https://fzj-jsc.github.io/tuning_lammps/)
