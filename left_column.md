@@ -33,12 +33,11 @@ The focus of this workshop is on:
 #### Monday, Nov 2, 12:50 - 17:00 CET
 
 - 12:50 - 13:00
-  Please join few minutes early so that we can start on time and get used to
-  the collaborative notes document.
+  Please join few minutes early
 
 - 13:00 - 13:20
   About the workshop
-  (Radovan and Alan)
+  (Alan and Radovan)
 
 - 13:20 - 13:50
   [Teaching philosophies](https://coderefinery.github.io/instructor-training/02-teaching-philosophies/)
@@ -48,75 +47,80 @@ The focus of this workshop is on:
   Break
 
 - 14:00 - 14:30
-  [Carpentries and CodeRefinery approach to teaching](https://coderefinery.github.io/instructor-training/03-teaching-style/)
-  (Sabry) - where we focus on differences between more demo-like CodeRefinery where
-  attendees take part shaping the course, compared to more type-along type Carpentries.
-
-- 14:30 - 14:50
   Discussion/group work:
   Top issues new instructors face
+  (Sabry)
+
+- 14:30 - 14:50
+  [Interactive teaching style](https://coderefinery.github.io/instructor-training/03-teaching-style/)
+  (Sabry)
 
 - 14:50 - 15:10
   Break
 
-- 15:10 - 16:00
-  Group work:
-  [Practicing teaching and feedback](https://coderefinery.github.io/instructor-training/06-teaching/):
-  Example 5-minute demo that we discuss together
+- 15:10 - 15:40
+  How to teach online (practical and technical aspects)
+  (Richard)
+
+- 15:40 - 16:00
+  Teaching demo 1 (preparation for group work on day 2)
+  (One of the instructors + feedback)
 
 - 16:00 - 16:10
   Break
 
 - 16:10 - 16:30
-  Discussion: feedback from group work
+  [Lesson design and lesson development](https://coderefinery.github.io/instructor-training/05-lesson-design/)
+  (Radovan)
 
 - 16:30 - 17:00
-  [Workshop preparation and organization](https://coderefinery.github.io/instructor-training/04-running-workshops/)
-  (Richard)
+  Group work: Lesson design
+  (Radovan)
+
+- Preparation for day 2: to be added
 
 
 #### Tuesday, Nov 3, 12:50 - 17:00 CET
 
 - 12:50 - 13:00
-  Please join few minutes early so that we can start on time and get used to
-  the collaborative notes document.
+  Please join few minutes early
 
 - 13:00 - 13:30
-  [Lesson design and lesson development](https://coderefinery.github.io/instructor-training/05-lesson-design/)
+  Collaborative lesson tools
   (Radovan)
 
 - 13:30 - 13:50
-  Group work:
-  Lesson design (part 1)
+  Teaching demo 2 (preparation for group work)
+  (One of the instructors + feedback)
 
 - 13:50 - 14:00
   Break
 
-- 14:00 - 14:30
+- 14:00 - 14:50
   Group work:
-  Lesson design (part 2)
-
-- 14:30 - 14:50
-  Discussion: feedback from group work
+  [Practicing teaching and feedback](https://coderefinery.github.io/instructor-training/06-teaching/)
+  (Anne)
 
 - 14:50 - 15:10
   Break
 
 - 15:10 - 16:00
-  How to teach online: lessons learned from online teaching
-  (Speaker: TBA)
+  Group work:
+  [Practicing teaching and feedback](https://coderefinery.github.io/instructor-training/06-teaching/)
+  (Anne)
 
 - 16:00 - 16:10
   Break
 
-- 16:10 - 16:30
-  Collaborative lesson tools
-  (Speaker: TBA)
+- 16:10 - 16:40
+  [Workshop preparation and organization](https://coderefinery.github.io/instructor-training/04-running-workshops/)
+  (Richard)
 
-- 16:30 - 17:00
-  CodeRefinery collaboration network,
-  Prepare for day 3
-  (Speaker: TBA)
+- 16:40 - 17:00
+  CodeRefinery collaboration network
+  (Radovan)
+
+- Preparation for day 3: to be added
 
 
 ### Monday, Nov 9, 12:50 - 17:00 CET
