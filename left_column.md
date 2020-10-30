@@ -38,7 +38,7 @@ The focus of this workshop is on:
 
 - 13:00 - 13:20
   About the workshop
-  (Speaker: TBA)
+  (Radovan and Alan)
 
 - 13:20 - 13:50
   [Teaching philosophies](https://coderefinery.github.io/instructor-training/02-teaching-philosophies/)
