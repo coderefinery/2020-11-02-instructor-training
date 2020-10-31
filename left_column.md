@@ -30,6 +30,11 @@ The focus of this workshop is on:
 
 ### Schedule
 
+Each workshop is a customized mix of material from our [instructor
+training
+material](https://coderefinery.github.io/instructor-training/) and
+[operations manuals](https://coderefinery.github.io/manuals/).
+
 #### Monday, Nov 2, 12:50 - 17:00 CET
 
 - 12:50 - 13:00
