@@ -70,7 +70,7 @@ The focus of this workshop is on:
   Break
 
 - 16:10 - 16:30
-  [Lesson design and lesson development](https://coderefinery.github.io/instructor-training/05-lesson-design/)
+  [Lesson design](https://coderefinery.github.io/instructor-training/lesson-design/)
   (Radovan)
 
 - 16:30 - 17:00
@@ -86,7 +86,7 @@ The focus of this workshop is on:
   Please join few minutes early
 
 - 13:00 - 13:30
-  Collaborative lesson tools
+  [Collaborative lesson development](https://coderefinery.github.io/instructor-training/lesson-development/)
   (Radovan)
 
 - 13:30 - 13:50
