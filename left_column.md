@@ -99,7 +99,7 @@ The focus of this workshop is on:
 - 14:00 - 14:50
   Group work:
   [Practicing teaching and feedback](https://coderefinery.github.io/instructor-training/06-teaching/)
-  (Anne)
+  (Radovan)
 
 - 14:50 - 15:10
   Break
@@ -107,7 +107,7 @@ The focus of this workshop is on:
 - 15:10 - 16:00
   Group work:
   [Practicing teaching and feedback](https://coderefinery.github.io/instructor-training/06-teaching/)
-  (Anne)
+  (Radovan)
 
 - 16:00 - 16:10
   Break
