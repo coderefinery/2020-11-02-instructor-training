@@ -82,7 +82,11 @@ material](https://coderefinery.github.io/instructor-training/) and
   [Group work: Lesson design](https://coderefinery.github.io/instructor-training/lesson-design/#practice-backwards-design)
   (Radovan)
 
-- Preparation for day 2: to be added
+- Preparation for day 2:
+  Browse through [HPC Carpentry material](https://github.com/hpc-carpentry),
+  select and prepare a 5-minute segment which you will teach next day as part of a group exercise.
+  The section you pick should require screen sharing and be of some follow-along task (preferably
+  using a shell).
 
 
 #### Tuesday, Nov 3, 12:50 - 17:00 CET
