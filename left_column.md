@@ -79,7 +79,7 @@ material](https://coderefinery.github.io/instructor-training/) and
   (Radovan)
 
 - 16:30 - 17:00
-  Group work: Lesson design
+  [Group work: Lesson design](https://coderefinery.github.io/instructor-training/lesson-design/#practice-backwards-design)
   (Radovan)
 
 - Preparation for day 2: to be added
