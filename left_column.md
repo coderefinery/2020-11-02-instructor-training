@@ -41,7 +41,7 @@ material](https://coderefinery.github.io/instructor-training/) and
   Please join few minutes early
 
 - 13:00 - 13:20
-  About the workshop
+  [About the workshop](https://coderefinery.github.io/instructor-training/welcome/)
   (Alan and Radovan)
 
 - 13:20 - 13:50
