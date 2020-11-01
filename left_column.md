@@ -52,12 +52,12 @@ material](https://coderefinery.github.io/instructor-training/) and
 - 13:50 - 14:00
   Break
 
-- 14:00 - 14:30
+- 14:00 - 14:20
   Discussion/group work:
   Top issues new instructors face
   (Sabry)
 
-- 14:30 - 14:50
+- 14:20 - 14:50
   [Interactive teaching style](https://coderefinery.github.io/instructor-training/03-teaching-style/)
   (Sabry)
 
