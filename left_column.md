@@ -41,7 +41,8 @@ material](https://coderefinery.github.io/instructor-training/) and
   Please join few minutes early
 
 - 13:00 - 13:20
-  [About the workshop](https://coderefinery.github.io/instructor-training/welcome/)
+  [About the workshop](https://coderefinery.github.io/instructor-training/welcome/) and
+  [About CodeRefinery](https://coderefinery.github.io/instructor-training/about-coderefinery/)
   (Alan and Radovan)
 
 - 13:20 - 13:50
@@ -64,11 +65,11 @@ material](https://coderefinery.github.io/instructor-training/) and
   Break
 
 - 15:10 - 15:40
-  How to teach online (practical and technical aspects)
+  [How to teach online](https://coderefinery.github.io/instructor-training/teaching-strategies/) (practical and technical aspects)
   (Richard)
 
 - 15:40 - 16:00
-  Teaching demo 1 (preparation for group work on day 2)
+  [Teaching demo 1](https://coderefinery.github.io/instructor-training/teaching-practice/) (preparation for group work on day 2)
   (One of the instructors + feedback)
 
 - 16:00 - 16:10
@@ -99,7 +100,7 @@ material](https://coderefinery.github.io/instructor-training/) and
   (Radovan)
 
 - 13:30 - 13:50
-  Teaching demo 2 (preparation for group work)
+  [Teaching demo 2](https://coderefinery.github.io/instructor-training/teaching-practice/) (preparation for group work)
   (One of the instructors + feedback)
 
 - 13:50 - 14:00
@@ -107,7 +108,7 @@ material](https://coderefinery.github.io/instructor-training/) and
 
 - 14:00 - 14:50
   Group work:
-  [Practicing teaching and feedback](https://coderefinery.github.io/instructor-training/06-teaching/)
+  [Practicing teaching and feedback](https://coderefinery.github.io/instructor-training/teaching-practice/)
   (Radovan)
 
 - 14:50 - 15:10
@@ -115,7 +116,7 @@ material](https://coderefinery.github.io/instructor-training/) and
 
 - 15:10 - 16:00
   Group work:
-  [Practicing teaching and feedback](https://coderefinery.github.io/instructor-training/06-teaching/)
+  [Practicing teaching and feedback](https://coderefinery.github.io/instructor-training/teaching-practice/)
   (Radovan)
 
 - 16:00 - 16:10
