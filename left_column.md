@@ -101,7 +101,7 @@ material](https://coderefinery.github.io/instructor-training/) and
 
 - 13:30 - 13:50
   [Teaching demo 2](https://coderefinery.github.io/instructor-training/teaching-practice/) (preparation for group work)
-  (One of the instructors + feedback)
+  (One of the instructors + feedback) (Sabry)
 
 - 13:50 - 14:00
   Break
