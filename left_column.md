@@ -127,7 +127,7 @@ material](https://coderefinery.github.io/instructor-training/) and
   (Richard)
 
 - 16:40 - 17:00
-  CodeRefinery collaboration network
+  [CodeRefinery collaboration network and the future](https://coderefinery.github.io/instructor-training/future/)
   (Radovan)
 
 - Preparation for day 3: to be added
