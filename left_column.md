@@ -123,7 +123,7 @@ material](https://coderefinery.github.io/instructor-training/) and
   Break
 
 - 16:10 - 16:40
-  [Workshop preparation and organization](https://coderefinery.github.io/instructor-training/04-running-workshops/)
+  [Online workshops](https://coderefinery.github.io/instructor-training/workshops-online/)
   (Richard)
 
 - 16:40 - 17:00
