@@ -130,11 +130,25 @@ material](https://coderefinery.github.io/instructor-training/) and
   [CodeRefinery collaboration network and the future](https://coderefinery.github.io/instructor-training/future/)
   (Radovan)
 
-- Preparation for day 3: to be added
-
 
 ### Monday, Nov 9, 12:50 - 17:00 CET
 
-Final program to be announced but will include an overview of
-- the HPC Carpentry lesson [Introduction to High-Performance Computing](https://hpc-carpentry.github.io/hpc-intro/)
-- the FocusCoE/E-CAM lesson on [Running LAMMPS on HPC systems](https://fzj-jsc.github.io/tuning_lammps/)
+In this half day event, we will take learners on a tour around HPCCarpentry,
+discuss its motivation and short history. We will focus on taking a deep dive
+at lesson development. We will cover best practices for designing lessons, for
+designing exercises and adjoint learning objectives to structure the process of
+community driven open educational resources as we understand them. The course
+will conclude by discussing how application specific teaching materials can be
+set up and which pitfalls to avoid in this domain. The course will provide room
+for self-experimentation based on HPCCarpentry material and teaching modules
+around LAMMPS. If time permits, contributions to open-source material are
+encouraged.
+
+- HPC Carpentry lesson [Introduction to High-Performance Computing](https://hpc-carpentry.github.io/hpc-intro/)
+- FocusCoE/E-CAM lesson on [Running LAMMPS on HPC systems](https://fzj-jsc.github.io/tuning_lammps/)
+
+**To prepare for the event**, we would love if participants could bring along
+statistics on how their HPC site is used. For example, it would be lovely if
+learners could bring a histogram of (successful) job runtimes and other such
+summary statistics from your site. Besides that, a stable internet connection,
+your will to communicate and clear audio quality is all that is needed.
