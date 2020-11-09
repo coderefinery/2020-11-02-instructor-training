@@ -149,7 +149,7 @@ encouraged.
 
 More details on the agenda (and any associated presentations) can be found at
 
-- https://psteinb.github.io/hpccarpentry-mini-intro/
+- [Introduction to HPC Carpentry and FocusCoE Training Material](https://psteinb.github.io/hpccarpentry-mini-intro/)
 
 **To prepare for the event**, we would love if participants could bring along
 statistics on how their HPC site is used. For example, it would be lovely if
