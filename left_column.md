@@ -147,6 +147,10 @@ encouraged.
 - HPC Carpentry lesson [Introduction to High-Performance Computing](https://hpc-carpentry.github.io/hpc-intro/)
 - FocusCoE/E-CAM lesson on [Running LAMMPS on HPC systems](https://fzj-jsc.github.io/tuning_lammps/)
 
+More details on the agenda (and any associated presentations) can be found at
+
+- https://psteinb.github.io/hpccarpentry-mini-intro/
+
 **To prepare for the event**, we would love if participants could bring along
 statistics on how their HPC site is used. For example, it would be lovely if
 learners could bring a histogram of (successful) job runtimes and other such
