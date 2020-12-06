@@ -1,8 +1,17 @@
-# Instructor training collaborative document
 
-## Day 3
+---
+permalink: /hackmd-day3/
+---
 
-### Introduction to HPC Carpentry
+#  2020 November, Focus CoE instructor training days 3
+
+## Links
+
+- Course page: https://coderefinery.github.io/2020-11-02-instructor-training/
+- Schedule:https://coderefinery.github.io/2020-11-02-instructor-training/#schedule
+
+###### tags: `workshop`
+
 
 Outline and slides: https://psteinb.github.io/hpccarpentry-mini-intro/
 

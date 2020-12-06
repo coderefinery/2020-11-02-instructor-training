@@ -1,4 +1,15 @@
-# Focus CoE instructor training days 1 and 2
+---
+permalink: /hackmd-day1_day2/
+---
+
+#  2020 November, Focus CoE instructor training days 1 and 2 
+
+## Links
+
+- Course page: https://coderefinery.github.io/2020-11-02-instructor-training/
+- Schedule:https://coderefinery.github.io/2020-11-02-instructor-training/#schedule
+
+###### tags: `workshop`
 
 Notes from days 1 and 2 below:
 
