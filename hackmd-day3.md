@@ -1,4 +1,3 @@
-
 ---
 permalink: /hackmd-day3/
 ---
